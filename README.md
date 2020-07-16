@@ -1,4 +1,4 @@
-# ocmcs-logs
+# mccs
 
 This is to keep track of changes in the Octocrew Public Minecraft Community Server.
 
