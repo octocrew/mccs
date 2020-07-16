@@ -4,6 +4,8 @@ This is to keep track of changes in the Octocrew Public Minecraft Community Serv
 
 View [CHANGELOG.md](https://github.com/octocrew/mccs/blob/master/CHANGELOG.md) to view a history of all changes.
 
+View [Trello](https://trello.com/b/ZgXfkbsV/octocrew-public-minecraft-community-server) to see the current progress of changes.
+
 Anything with a `#` is a comment that usually indicates the default setting.
 
 ---
