@@ -25,7 +25,7 @@ View [Trello](https://trello.com/b/ZgXfkbsV/octocrew-public-minecraft-community-
 - [LuckPerms](https://www.spigotmc.org/resources/luckperms.28140/)
   - Allows admins to manage command permissions.
 - [HomeSpawn](https://www.spigotmc.org/resources/homespawn.14108/)
-  - Allows a user to set their home using `/sethome [name]`.
+  - Allows a user to set their home using the `/sethome [name]` command.
   - Allows a user to teleport to their home using the `/home [name]` command.
   - Allows a user to teleport to spawn using the `/spawn` command.
 
