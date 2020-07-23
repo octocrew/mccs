@@ -6,9 +6,44 @@ View [CHANGELOG.md](https://github.com/octocrew/mccs/blob/master/CHANGELOG.md) t
 
 View [Trello](https://trello.com/b/ZgXfkbsV/octocrew-public-minecraft-community-server) to see the current progress of changes.
 
-Anything with a `#` is a comment that usually indicates the default setting.
+- Anything with a `#` is a comment that usually indicates the default setting.
+- Settings for Plugins, Datapacks, and other things are listed under "Currently Modified Settings or State".
 
 ---
+
+## Plugins
+
+- [Grief Prevention](https://www.spigotmc.org/resources/griefprevention.1884/)
+  - Allows users to create claims to protect their builds.
+  - Everything inside the claim can not be destroyed by players without `/trust`.
+  - Claim owner can give varying levels of claim access/trust.
+- [Core Protect](https://www.spigotmc.org/resources/coreprotect.8631/)
+  - Logs actions in game (blocks, chests, etc.) and allows rollback/recovery to varying degrees.
+  - Currently used to allow rollback on blocks due to cheaters but not due to griefing.
+- [LuckPerms](https://www.spigotmc.org/resources/luckperms.28140/)
+  - Allows admins to create groups and give permissions of plugin commands on the server.
+- [HomeSpawn](https://www.spigotmc.org/resources/homespawn.14108/)
+  - Allows a user to teleport to their home using the `/home [name]` command.
+  - Allows a user to teleport to spawn using the `/spawn` command.
+
+## Datapacks
+
+- [Craftable Shulker Shells: "Shulker Shell Shuffle"](https://www.curseforge.com/minecraft/customization/shulker-shell-shuffle)
+  - Makes endermen drop chorus fruit
+  - Adds recipe for shulker shells by using popped chorus fruit in a helmet pattern
+  - Adds recipe for one ender pearl from a one chorus fruit
+  - Recipes are added to the recipe book
+- [Multiplayer Precentage Sleeping System](https://github.com/Plagiatus/datapacks/tree/master/multiplayer_sleep)
+  - Allows a percentage of users to sleep instead of all players.
+  - Rounds down (for example: 5 players online with 50% sleep only requires 2 to sleep).
+  - Clear the weather for 999,999 seconds every time night is skipped (Not normal behavior. Can be changed back to normal behavior.).
+  - Does **not** interfere with the phatnom timer.
+  - Only considers players in the overworld for sleep.
+  - Adds to time instead of resetting it to help with in-game days/time played.
+- [Dragon Drops](https://vanillatweaks.net/picker/datapacks/)
+  - Makes the ender dragon drop a dragon egg and elytra on every death.
+- [Double Shulker Shells](https://vanillatweaks.net/picker/datapacks/)
+  - Makes all shulkers drop two shells.
 
 ## Currently Modified Settings or State
 
