@@ -7,7 +7,7 @@ View [CHANGELOG.md](https://github.com/octocrew/mccs/blob/master/CHANGELOG.md) t
 View [Trello](https://trello.com/b/ZgXfkbsV/octocrew-public-minecraft-community-server) to see the current progress of changes.
 
 - Anything with a `#` is a comment that usually indicates the default setting.
-- Settings for Plugins, Datapacks, and other things are listed under "Currently Modified Settings or State".
+- Settings for plugins, datapacks, and other things are listed under "Currently Modified Settings or State".
 
 ---
 
@@ -25,6 +25,7 @@ View [Trello](https://trello.com/b/ZgXfkbsV/octocrew-public-minecraft-community-
 - [LuckPerms](https://www.spigotmc.org/resources/luckperms.28140/)
   - Allows admins to manage command permissions.
 - [HomeSpawn](https://www.spigotmc.org/resources/homespawn.14108/)
+  - Allows a user to set their home using `/sethome [name]`.
   - Allows a user to teleport to their home using the `/home [name]` command.
   - Allows a user to teleport to spawn using the `/spawn` command.
 
