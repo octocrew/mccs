@@ -23,7 +23,7 @@ View [Trello](https://trello.com/b/ZgXfkbsV/octocrew-public-minecraft-community-
     - Rollback on blocks due to cheaters but not due to griefing, as long as it doesn't rollback other users' progress.
     - Identifying who may have cheated due to x-ray or other cheats. 
 - [LuckPerms](https://www.spigotmc.org/resources/luckperms.28140/)
-  - Allows admins to create groups and give permissions of plugin commands on the server.
+  - Allows admins to manage command permissions.
 - [HomeSpawn](https://www.spigotmc.org/resources/homespawn.14108/)
   - Allows a user to teleport to their home using the `/home [name]` command.
   - Allows a user to teleport to spawn using the `/spawn` command.
