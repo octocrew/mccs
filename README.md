@@ -19,7 +19,9 @@ View [Trello](https://trello.com/b/ZgXfkbsV/octocrew-public-minecraft-community-
   - Claim owner can give varying levels of claim access/trust.
 - [Core Protect](https://www.spigotmc.org/resources/coreprotect.8631/)
   - Logs actions in game (blocks, chests, etc.) and allows rollback/recovery to varying degrees.
-  - Currently used to allow rollback on blocks due to cheaters but not due to griefing.
+  - Currently used for:
+    - Rollback on blocks due to cheaters but not due to griefing, as long as it doesn't rollback other users' progress.
+    - Identifying who may have cheated due to x-ray or other cheats. 
 - [LuckPerms](https://www.spigotmc.org/resources/luckperms.28140/)
   - Allows admins to create groups and give permissions of plugin commands on the server.
 - [HomeSpawn](https://www.spigotmc.org/resources/homespawn.14108/)
